@@ -1,4 +1,5 @@
 // Version 1.1
+//Master Input
 class Hello 
   {
   public static void main(String args [])
