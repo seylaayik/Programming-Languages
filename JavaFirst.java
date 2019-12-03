@@ -1,4 +1,5 @@
 // Version 1.1
+// Side input
 class Hello 
   {
   public static void main(String args [])
