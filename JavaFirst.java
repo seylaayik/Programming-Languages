@@ -1,9 +1,5 @@
 // Version 1.1
-
-// Side input
-// Venom Input 2
-
-//Master Input
+// Edited in namikkaplan account and left only 2 lines in the program
 
 class Hello 
   {
@@ -11,10 +7,6 @@ class Hello
     {
       System.out.println("hello");
       System.out.println("World");
-      System.out.println("Branch Example");
-      System.out.println("Branch Side");
-      System.out.println("Effort");
-      System.out.println("Master");
 
     }
   }
