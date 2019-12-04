@@ -1,5 +1,6 @@
 // Version 1.1
 // Edited in namikkaplan account and left only 2 lines in the program
+// refer to issue#6
 
 class Hello 
   {
